@@ -1,0 +1,25 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "command": true,
+        "true": true,
+        "npm run build": true,
+        "mkdir": true,
+        "git rev-parse": true,
+        "git remote": true,
+        "git init": true,
+        "git ls-remote": true,
+        "gh": true,
+        "printf": true,
+        "git credential": true,
+        "awk": true,
+        "npm install": true
+    },
+    "search.exclude": {
+        "**/tmp": true,
+        "**/tmp/**": true
+    },
+    "files.exclude": {
+        "**/tmp": true,
+        "**/tmp/**": true
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "type": "command",
+        "command": "bash .github/hooks/stop-format.sh",
+        "cwd": "/Users/jorge/Documents/Jorge/curso_desarrollo_IA_plexus_2/curso",
+        "timeout": 120
+      }
+    ]
+  }
+}
